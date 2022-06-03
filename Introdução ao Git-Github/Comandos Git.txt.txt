@@ -12,6 +12,6 @@ git commit -m "mensagem"- realiza o commit de dados Tracked com uma mensagem
 
 git push- "empurra" as mudanças de um repositório local para um servidor remoto
 
-git push origin master- "empurra" todas as mudanças de um repositório local para um servidor remoto
+git push origin main- "empurra" todas as mudanças de um repositório local para um servidor remoto
 
-git pull origin master- "puxa" todas as mudanças de um repositório local para um servidor remoto
+git pull origin main- "puxa" todas as mudanças de um repositório local para um servidor remoto
