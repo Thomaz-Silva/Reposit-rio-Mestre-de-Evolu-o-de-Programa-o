@@ -1,0 +1,17 @@
+git init- Inicializa um repositório na pasta
+
+git config- Permite a configuração do git
+
+git status- Mostra o status atual do repositório
+
+git add */.- Move todas as mudanças novas para Tracked, prontas para serem Staged
+
+git commit- realiza o commit de dados Tracked
+
+git commit -m "mensagem"- realiza o commit de dados Tracked com uma mensagem
+
+git push- "empurra" as mudanças de um repositório local para um servidor remoto
+
+git push origin master- "empurra" todas as mudanças de um repositório local para um servidor remoto
+
+git pull origin master- "puxa" todas as mudanças de um repositório local para um servidor remoto
